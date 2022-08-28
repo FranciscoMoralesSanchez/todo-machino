@@ -11,6 +11,7 @@ const todos = [
   {text:'cortar manzanas', completed: true},
   {text:'cortar peras', completed: false},
   {text:'cortar mangos', completed: false},
+  {text:'cortar limones', completed: false},
 ];
 
 function App() {
