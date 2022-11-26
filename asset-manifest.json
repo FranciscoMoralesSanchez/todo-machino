@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FranciscoMoralesSanchez/todo-machino/static/css/main.44b293c1.css",
+    "main.js": "/FranciscoMoralesSanchez/todo-machino/static/js/main.52c41ccd.js",
+    "index.html": "/FranciscoMoralesSanchez/todo-machino/index.html",
+    "main.44b293c1.css.map": "/FranciscoMoralesSanchez/todo-machino/static/css/main.44b293c1.css.map",
+    "main.52c41ccd.js.map": "/FranciscoMoralesSanchez/todo-machino/static/js/main.52c41ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b293c1.css",
+    "static/js/main.52c41ccd.js"
+  ]
+}
